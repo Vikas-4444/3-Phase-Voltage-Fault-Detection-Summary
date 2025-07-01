@@ -23,8 +23,8 @@ A voltage monitoring and alert system for 3-phase power lines using ESP32 and ZM
 This is a **summary-only** repo. Code is kept private.
 
 🔒 To request access:
-- Open an issue [here](https://github.com/yourusername/3-phase-detector-summary/issues/new?title=Request+for+code+access&body=Hi%2C+please+grant+me+access+to+the+private+code+repo+for+this+project.)
-- Or email me at **your.email@example.com**
+- Open an issue [here](https://github.com/Vikas-4444/3-Phase-Voltage-Fault-Detection-Summary/issues/new?title=Request+for+code+access&body=Hi%2C+please+grant+me+access+to+the+private+code+repo+for+this+project.)
+- Or email me at **vikas.vivekanathan@gmail.com**
 
 ---
 
