@@ -14,7 +14,7 @@ A voltage monitoring and alert system for 3-phase power lines using ESP32 and ZM
 
 ## 🔁 Flowchart
 
-![Flowchart](Assets/'3-Ph Fault Detector.drawio.png')
+![Flowchart](Assets/3-Ph Fault Detector.drawio.png)
 
 ---
 
