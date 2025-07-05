@@ -5,7 +5,7 @@ A voltage monitoring and alert system for 3-phase power lines using ESP32 and ZM
 ---
 
 ## 🧠 Features
-- Voltage monitoring from 3-phase supply + DG using 4 ZMPT101B sensors
+- Voltage monitoring from 3-phase supply + DG using 4 ZMPT101B sensors and ESP32 microcontroller
 - Logs live voltage data to Firebase every 1 second
 - Web app and PWA using Firebase Hosting
 - Sends push notifications via Python FCM if DG is on and voltage drops
